@@ -41,7 +41,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-layout: single
+layout: "single"
 
 # Configuration
 minimal_mistakes_skin: "contrast"
