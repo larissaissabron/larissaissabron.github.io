@@ -28,6 +28,13 @@ url: "https://flexvolcanic.rodeo/" # the base hostname & protocol for your site,
 repository: "larissaissabron/larissaissabron.github.io"
 github_username:  "larissaissabron"
 
+# Author Bar
+author:
+  name    : "Flex Volcanic"
+  avatar  : "/assets/images/photoname.jpg"
+  bio     : "Real g's move in silence like lasagna"
+  location : "Salish Sea"
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 plugins:
