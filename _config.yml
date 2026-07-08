@@ -31,7 +31,7 @@ github_username:  "larissaissabron"
 # Author Bar
 author:
   name    : "Flex Volcanic"
-  avatar  : "/assets/images/photoname.jpg"
+#  avatar  : "/assets/images/photoname.jpg"
   bio     : "Real g's move in silence like lasagna"
   location : "Salish Sea"
 
